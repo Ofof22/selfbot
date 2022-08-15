@@ -1,0 +1,17 @@
+{
+  "name": "love",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.3.41",
+    "express": "^4.18.1",
+    "nukleon": "^0.0.2"
+  }
+}
