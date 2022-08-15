@@ -75,7 +75,7 @@ function timeCon(seconds) {
 
   return `${hours}:${minutes}:${seconds}`;
 }
-client.login(process.env.token)
+client.login ("")
 app.get('/', (req, res) => {
   res.send('Hello Express app!')
 });
